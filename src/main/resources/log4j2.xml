@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration ><!-- status="ALL"> -->
+
+	<appenders>
+		<!-- <Console name="Console" target="SYSTEM_OUT" >
+			<PatternLayout
+				pattern="%d{HH:mm:ss.SSS} [%t] 
+				%-5level %logger{36} - %msg%n" />
+		</Console>  -->   
+		<RollingFile name="userActivity"
+			fileName="logs/userActivity.log" filePattern="../logs/application-%d{MM-dd-yyyy}-%i.log">
+			<ThresholdFilter level="INFO" onMatch="ACCEPT" onMismatch="DENY"/>
+			<PatternLayout>
+				<pattern>
+					%d{dd.MM.yyyy HH:mm:ss.SSS} %-5level  %l %M:
+					%msg%n
+				</pattern>
+			</PatternLayout>
+			<Policies>
+				<SizeBasedTriggeringPolicy size="10 MB" />
+			</Policies>
+			<DefaultRolloverStrategy min="1" max="4" />
+		</RollingFile>
+		
+		<RollingFile name="systemActivity"
+			fileName="logs/systemLog.log" filePattern="../logs/application-%d{MM-dd-yyyy}-%i.log">
+			<PatternLayout>
+				<pattern>
+					%d{dd.MM.yyyy HH:mm:ss.SSS} %-5level  %l %M: <!-- %c{36} -->
+					%msg%n
+				</pattern>
+			</PatternLayout>
+			<Policies>
+				<SizeBasedTriggeringPolicy size="10 MB" />
+			</Policies>
+			<DefaultRolloverStrategy min="1" max="4" />
+		</RollingFile>
+	</appenders>
+	
+	<loggers>
+		<root level="DEBUG">
+			<!-- <appender-ref ref="Console" /> -->
+			<appender-ref ref="systemActivity"  />
+			<appender-ref ref="userActivity" />
+		</root>
+	</loggers>
+</configuration>

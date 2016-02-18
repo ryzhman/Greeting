@@ -1,0 +1,94 @@
+17.02.2016 17:13:19.255 INFO   ConsoleGreeting.Greetting.App.main(App.java:16) main: 
+					Current time is 17:13:19.127
+17.02.2016 17:13:19.260 INFO   ConsoleGreeting.Greetting.App.greet(App.java:50) greet: 
+					Invokation of method displayed 
+17.02.2016 17:15:53.988 INFO   ConsoleGreeting.Greetting.App.main(App.java:16) main: 
+					Current time is 17:15:53.881
+17.02.2016 17:15:54.009 INFO   ConsoleGreeting.Greetting.App.greet(App.java:50) greet: 
+					Invokation of method displayed 
+17.02.2016 17:16:43.161 INFO   ConsoleGreeting.Greetting.App.main(App.java:16) main: 
+					Current time is 17:16:43.062
+17.02.2016 17:17:28.626 INFO   ConsoleGreeting.Greetting.App.main(App.java:16) main: 
+					Current time is 17:17:28.518
+17.02.2016 17:17:50.464 INFO   ConsoleGreeting.Greetting.App.main(App.java:17) main: 
+					Current time is 17:17:50.332
+17.02.2016 17:17:50.473 ERROR  ConsoleGreeting.Greetting.App.greet(App.java:51) greet: 
+					Exception occured Can't find resource for bundle java.util.PropertyResourceBundle, key sss
+17.02.2016 17:20:52.861 INFO   ConsoleGreeting.Greetting.App.main(App.java:17) main: 
+					Current time is 17:20:52.767
+17.02.2016 17:20:52.872 ERROR  ConsoleGreeting.Greetting.App.greet(App.java:51) greet: 
+					Exception occured Can't find resource for bundle java.util.PropertyResourceBundle, key sss
+17.02.2016 17:21:23.629 INFO   ConsoleGreeting.Greetting.App.main(App.java:17) main: 
+					Current time is 17:21:23.530
+17.02.2016 17:21:23.634 INFO   ConsoleGreeting.Greetting.App.greet(App.java:39) greet: 
+					Invocation of method displayed Добрый день, Мир!
+17.02.2016 17:23:30.904 INFO   ConsoleGreeting.Greetting.App.main(App.java:17) main: 
+					Current time is 17:23:30.782
+17.02.2016 17:23:30.910 INFO   ConsoleGreeting.Greetting.App.greet(App.java:39) greet: 
+					Invocation of method displayed Добрый день, Мир!
+17.02.2016 17:27:28.382 INFO   ConsoleGreeting.Greetting.App.main(App.java:17) main: 
+					Current time is 17:27:28.227
+17.02.2016 17:27:28.390 INFO   ConsoleGreeting.Greetting.App.greet(App.java:39) greet: 
+					Invocation of method displayed Добрый день, Мир!
+17.02.2016 17:27:56.384 INFO   ConsoleGreeting.Greetting.App.main(App.java:17) main: 
+					Current time is 17:27:56.269
+17.02.2016 17:27:56.389 INFO   ConsoleGreeting.Greetting.App.greet(App.java:39) greet: 
+					Invocation of method displayed Добрый день, Мир!
+17.02.2016 17:28:26.745 INFO   ConsoleGreeting.Greetting.App.main(App.java:17) main: 
+					Current time is 17:28:26.629
+17.02.2016 17:28:26.750 INFO   ConsoleGreeting.Greetting.App.greet(App.java:39) greet: 
+					Invocation of method displayed Добрый день, Мир!
+17.02.2016 17:30:04.404 INFO   ConsoleGreeting.Greetting.App.main(App.java:17) main: 
+					Current time is 17:30:04.290
+17.02.2016 17:30:04.409 INFO   ConsoleGreeting.Greetting.App.greet(App.java:39) greet: 
+					Invocation of method displayed Добрый день, Мир!
+17.02.2016 17:31:35.413 INFO   ConsoleGreeting.Greetting.App.main(App.java:17) main: 
+					Current time is 17:31:35.317
+17.02.2016 17:31:35.418 INFO   ConsoleGreeting.Greetting.App.greet(App.java:39) greet: 
+					Invocation of method displayed Добрый день, Мир!
+17.02.2016 17:31:49.689 INFO   ConsoleGreeting.Greetting.App.main(App.java:17) main: 
+					Current time is 17:31:49.582
+17.02.2016 17:31:49.694 INFO   ConsoleGreeting.Greetting.App.greet(App.java:39) greet: 
+					Invocation of method displayed Добрый день, Мир!
+17.02.2016 17:32:40.418 INFO   ConsoleGreeting.Greetting.App.main(App.java:17) main: 
+					Current time is 17:32:40.316
+17.02.2016 17:32:40.474 INFO   ConsoleGreeting.Greetting.App.greet(App.java:39) greet: 
+					Invocation of method displayed Добрый день, Мир!
+17.02.2016 17:34:33.286 INFO   ConsoleGreeting.Greetting.App.main(App.java:17) main: 
+					Current time is 17:34:33.123
+17.02.2016 17:35:20.306 INFO   ConsoleGreeting.Greetting.App.main(App.java:17) main: 
+					Current time is 17:35:20.201
+17.02.2016 17:35:35.078 INFO   ConsoleGreeting.Greetting.App.main(App.java:17) main: 
+					Current time is 17:35:34.970
+17.02.2016 17:36:14.495 INFO   ConsoleGreeting.Greetting.App.main(App.java:17) main: 
+					Current time is 17:36:14.388
+17.02.2016 17:36:48.121 INFO   ConsoleGreeting.Greetting.App.main(App.java:17) main: 
+					Current time is 17:36:48.013
+17.02.2016 17:37:04.034 INFO   ConsoleGreeting.Greetting.App.main(App.java:17) main: 
+					Current time is 17:37:03.933
+17.02.2016 17:37:17.223 INFO   ConsoleGreeting.Greetting.App.main(App.java:17) main: 
+					Current time is 17:37:17.128
+17.02.2016 17:37:17.228 INFO   ConsoleGreeting.Greetting.App.greet(App.java:43) greet: 
+					Invocation of method displayed Добрый день, Мир!
+17.02.2016 17:37:25.184 INFO   ConsoleGreeting.Greetting.App.main(App.java:17) main: 
+					Current time is 17:37:25.091
+17.02.2016 17:38:00.016 INFO   ConsoleGreeting.Greetting.App.main(App.java:17) main: 
+					Current time is 17:37:59.881
+17.02.2016 17:38:00.021 ERROR  ConsoleGreeting.Greetting.App.greet(App.java:34) greet: 
+					Exception occured Can't find bundle for base name messagesSS, locale ru_RU
+17.02.2016 17:39:09.487 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main: 
+					Current time is 17:39:09.393
+17.02.2016 17:39:09.491 ERROR  ConsoleGreeting.Greetting.App.greet(App.java:35) greet: 
+					Exception occured Can't find bundle for base name messagesSS, locale ru_RU
+17.02.2016 17:39:41.557 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main: 
+					Current time is 17:39:41.464
+17.02.2016 17:39:41.562 INFO   ConsoleGreeting.Greetting.App.greet(App.java:47) greet: 
+					Invocation of method displayed Добрый день, Мир!
+17.02.2016 18:41:43.304 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main: 
+					Current time is 18:41:43.186
+17.02.2016 18:41:43.327 INFO   ConsoleGreeting.Greetting.App.greet(App.java:47) greet: 
+					Invocation of method displayed Добрый день, Мир!
+17.02.2016 18:42:11.531 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main: 
+					Current time is 18:42:11.407
+17.02.2016 18:42:11.539 INFO   ConsoleGreeting.Greetting.App.greet(App.java:47) greet: 
+					Invocation of method displayed Добрый день, Мир!
