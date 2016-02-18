@@ -92,3 +92,11 @@
 					Current time is 18:42:11.407
 17.02.2016 18:42:11.539 INFO   ConsoleGreeting.Greetting.App.greet(App.java:47) greet: 
 					Invocation of method displayed Добрый день, Мир!
+18.02.2016 12:44:30.818 INFO   ConsoleGreeting.Greetting.App.greet(App.java:40) greet: 
+					Invocation of method displayed Доброе утро, Мир!
+18.02.2016 12:44:30.821 INFO   ConsoleGreeting.Greetting.App.greet(App.java:44) greet: 
+					Invocation of method displayed Добрый день, Мир!
+18.02.2016 12:44:30.822 INFO   ConsoleGreeting.Greetting.App.greet(App.java:48) greet: 
+					Invocation of method displayed Добрый вечер, Мир!
+18.02.2016 12:44:30.822 INFO   ConsoleGreeting.Greetting.App.greet(App.java:52) greet: 
+					Invocation of method displayed Доброй ночи, Мир!
