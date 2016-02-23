@@ -100,3 +100,433 @@
 					Invocation of method displayed Добрый вечер, Мир!
 18.02.2016 12:44:30.822 INFO   ConsoleGreeting.Greetting.App.greet(App.java:52) greet:
 					Invocation of method displayed Доброй ночи, Мир!
+18.02.2016 13:39:53.824 INFO   ConsoleGreeting.Greetting.App.greet(App.java:40) greet:
+					Invocation of method displayed Доброе утро, Мир!
+18.02.2016 13:39:53.827 INFO   ConsoleGreeting.Greetting.App.greet(App.java:44) greet:
+					Invocation of method displayed Добрый день, Мир!
+18.02.2016 13:39:53.827 INFO   ConsoleGreeting.Greetting.App.greet(App.java:48) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+18.02.2016 13:39:53.827 INFO   ConsoleGreeting.Greetting.App.greet(App.java:52) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+18.02.2016 14:03:06.788 INFO   ConsoleGreeting.Greetting.App.greet(App.java:40) greet:
+					Invocation of method displayed Доброе утро, Мир!
+18.02.2016 14:03:06.790 INFO   ConsoleGreeting.Greetting.App.greet(App.java:44) greet:
+					Invocation of method displayed Добрый день, Мир!
+18.02.2016 14:03:06.791 INFO   ConsoleGreeting.Greetting.App.greet(App.java:48) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+18.02.2016 14:03:06.791 INFO   ConsoleGreeting.Greetting.App.greet(App.java:52) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+18.02.2016 14:03:48.443 INFO   ConsoleGreeting.Greetting.App.greet(App.java:40) greet:
+					Invocation of method displayed Доброе утро, Мир!
+18.02.2016 14:03:48.445 INFO   ConsoleGreeting.Greetting.App.greet(App.java:44) greet:
+					Invocation of method displayed Добрый день, Мир!
+18.02.2016 14:03:48.446 INFO   ConsoleGreeting.Greetting.App.greet(App.java:48) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+18.02.2016 14:03:48.446 INFO   ConsoleGreeting.Greetting.App.greet(App.java:52) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 09:13:22.378 WARN   ConsoleGreeting.Greetting.App.greet(App.java:23) greet:
+					Invalid argument for greet(). Return null
+23.02.2016 09:15:03.684 WARN   ConsoleGreeting.Greetting.App.greet(App.java:23) greet:
+					Invalid argument for greet(). Return null
+23.02.2016 09:15:22.053 WARN   ConsoleGreeting.Greetting.App.greet(App.java:23) greet:
+					Invalid argument for greet(). Return null
+23.02.2016 09:15:54.791 INFO   ConsoleGreeting.Greetting.App.greet(App.java:40) greet:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 09:15:54.793 INFO   ConsoleGreeting.Greetting.App.greet(App.java:44) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 09:15:54.794 INFO   ConsoleGreeting.Greetting.App.greet(App.java:48) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 09:15:54.794 INFO   ConsoleGreeting.Greetting.App.greet(App.java:52) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 09:16:23.450 INFO   ConsoleGreeting.Greetting.App.greet(App.java:40) greet:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 09:16:23.453 INFO   ConsoleGreeting.Greetting.App.greet(App.java:44) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 09:16:23.454 INFO   ConsoleGreeting.Greetting.App.greet(App.java:48) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 09:16:23.454 INFO   ConsoleGreeting.Greetting.App.greet(App.java:52) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 09:22:57.127 INFO   ConsoleGreeting.Greetting.App.greet(App.java:58) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 09:28:24.621 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 09:00
+23.02.2016 09:28:24.627 INFO   ConsoleGreeting.Greetting.App.greet(App.java:59) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 09:28:40.193 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 09:00
+23.02.2016 09:28:46.368 INFO   ConsoleGreeting.Greetting.App.greet(App.java:59) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 09:28:56.308 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 09:00
+23.02.2016 09:29:58.397 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 09:10
+23.02.2016 09:29:58.402 INFO   ConsoleGreeting.Greetting.App.greet(App.java:51) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 09:30:09.389 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 08:10
+23.02.2016 09:30:09.393 INFO   ConsoleGreeting.Greetting.App.greet(App.java:47) greet:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 09:30:16.170 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 22:10
+23.02.2016 09:30:16.174 INFO   ConsoleGreeting.Greetting.App.greet(App.java:55) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 09:30:27.803 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 00:10
+23.02.2016 09:30:27.808 INFO   ConsoleGreeting.Greetting.App.greet(App.java:59) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 09:34:22.502 INFO   ConsoleGreeting.Greetting.App.main(App.java:20) main:
+					Current time is 00:10
+23.02.2016 09:34:22.506 INFO   ConsoleGreeting.Greetting.App.greet(App.java:65) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 09:39:50.225 INFO   ConsoleGreeting.Greetting.App.main(App.java:20) main:
+					Current time is 00:10
+23.02.2016 09:39:50.229 INFO   ConsoleGreeting.Greetting.App.greet(App.java:70) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 09:42:37.997 INFO   ConsoleGreeting.Greetting.App.main(App.java:20) main:
+					Current time is 09:00
+23.02.2016 09:42:38.001 INFO   ConsoleGreeting.Greetting.App.greet(App.java:50) greet:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 09:42:45.595 INFO   ConsoleGreeting.Greetting.App.main(App.java:20) main:
+					Current time is 19:00
+23.02.2016 09:42:45.599 INFO   ConsoleGreeting.Greetting.App.greet(App.java:54) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 09:42:55.447 INFO   ConsoleGreeting.Greetting.App.main(App.java:20) main:
+					Current time is 19:01
+23.02.2016 09:42:55.452 INFO   ConsoleGreeting.Greetting.App.greet(App.java:62) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 09:43:02.159 INFO   ConsoleGreeting.Greetting.App.main(App.java:20) main:
+					Current time is 19:01
+23.02.2016 09:43:02.164 INFO   ConsoleGreeting.Greetting.App.greet(App.java:62) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 09:43:41.634 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 21:00
+23.02.2016 09:43:41.639 INFO   ConsoleGreeting.Greetting.App.greet(App.java:56) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 09:43:56.042 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 19:00
+23.02.2016 09:43:56.048 INFO   ConsoleGreeting.Greetting.App.greet(App.java:52) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 09:44:03.083 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 19:02
+23.02.2016 09:44:03.087 INFO   ConsoleGreeting.Greetting.App.greet(App.java:56) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 09:44:09.405 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 19:02
+23.02.2016 09:44:09.410 INFO   ConsoleGreeting.Greetting.App.greet(App.java:56) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 09:44:15.986 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 19:00
+23.02.2016 09:44:15.990 INFO   ConsoleGreeting.Greetting.App.greet(App.java:52) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 09:44:21.892 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 19:00
+23.02.2016 09:44:21.897 INFO   ConsoleGreeting.Greetting.App.greet(App.java:52) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 09:44:29.725 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 19:00
+23.02.2016 09:44:29.729 INFO   ConsoleGreeting.Greetting.App.greet(App.java:52) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 09:44:33.676 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 19:02
+23.02.2016 09:44:33.681 INFO   ConsoleGreeting.Greetting.App.greet(App.java:56) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 09:44:39.068 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 19:01
+23.02.2016 09:44:39.075 INFO   ConsoleGreeting.Greetting.App.greet(App.java:60) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 09:47:49.128 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 19:01
+23.02.2016 09:47:49.133 INFO   ConsoleGreeting.Greetting.App.greet(App.java:54) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 09:48:10.519 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 19:01
+23.02.2016 09:48:10.526 INFO   ConsoleGreeting.Greetting.App.greet(App.java:54) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 09:48:27.085 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 19:00
+23.02.2016 09:48:27.089 INFO   ConsoleGreeting.Greetting.App.greet(App.java:54) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 09:48:34.851 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 19:01
+23.02.2016 09:48:34.855 INFO   ConsoleGreeting.Greetting.App.greet(App.java:54) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 09:49:35.415 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 20:01
+23.02.2016 09:49:35.419 INFO   ConsoleGreeting.Greetting.App.greet(App.java:63) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 09:50:24.059 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 20:01
+23.02.2016 09:50:24.063 INFO   ConsoleGreeting.Greetting.App.greet(App.java:59) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 09:50:36.879 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 19:01
+23.02.2016 09:50:36.884 INFO   ConsoleGreeting.Greetting.App.greet(App.java:54) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 09:50:43.637 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 19:00
+23.02.2016 09:50:43.642 INFO   ConsoleGreeting.Greetting.App.greet(App.java:54) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 09:50:49.796 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 19:01
+23.02.2016 09:50:49.800 INFO   ConsoleGreeting.Greetting.App.greet(App.java:54) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 09:50:55.656 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 19:02
+23.02.2016 09:50:55.661 INFO   ConsoleGreeting.Greetting.App.greet(App.java:54) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 09:53:33.395 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 19:02
+23.02.2016 09:53:33.399 INFO   ConsoleGreeting.Greetting.App.greet(App.java:59) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 09:53:41.886 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 19:00
+23.02.2016 09:53:41.890 INFO   ConsoleGreeting.Greetting.App.greet(App.java:54) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 09:53:47.702 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 19:01
+23.02.2016 09:53:47.707 INFO   ConsoleGreeting.Greetting.App.greet(App.java:59) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 09:53:57.266 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 06:00
+23.02.2016 09:53:57.271 INFO   ConsoleGreeting.Greetting.App.greet(App.java:49) greet:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 09:54:08.493 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 05:59
+23.02.2016 09:54:08.498 INFO   ConsoleGreeting.Greetting.App.greet(App.java:63) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 09:54:18.172 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 23:00
+23.02.2016 09:54:18.176 INFO   ConsoleGreeting.Greetting.App.greet(App.java:59) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 09:55:20.783 INFO   ConsoleGreeting.Greetting.App.main(App.java:17) main:
+					Current time is 09:55:20.661
+23.02.2016 09:55:20.792 INFO   ConsoleGreeting.Greetting.App.greet(App.java:53) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 09:55:48.705 INFO   ConsoleGreeting.Greetting.App.greet(App.java:48) greet:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 09:55:48.707 INFO   ConsoleGreeting.Greetting.App.greet(App.java:53) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 09:55:48.708 INFO   ConsoleGreeting.Greetting.App.greet(App.java:58) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 09:55:48.708 INFO   ConsoleGreeting.Greetting.App.greet(App.java:62) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 09:55:57.524 INFO   ConsoleGreeting.Greetting.App.greet(App.java:48) greet:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 09:55:57.527 INFO   ConsoleGreeting.Greetting.App.greet(App.java:53) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 09:55:57.528 INFO   ConsoleGreeting.Greetting.App.greet(App.java:58) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 09:55:57.528 INFO   ConsoleGreeting.Greetting.App.greet(App.java:62) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 09:58:46.571 INFO   ConsoleGreeting.Greetting.App.main(App.java:17) main:
+					Current time is 09:58:46.471
+23.02.2016 09:58:46.579 INFO   ConsoleGreeting.Greetting.App.greet(App.java:52) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 09:58:54.381 INFO   ConsoleGreeting.Greetting.App.greet(App.java:48) greet:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 09:58:54.384 INFO   ConsoleGreeting.Greetting.App.greet(App.java:52) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 09:58:54.384 INFO   ConsoleGreeting.Greetting.App.greet(App.java:56) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 09:58:54.385 INFO   ConsoleGreeting.Greetting.App.greet(App.java:60) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 10:03:52.832 INFO   ConsoleGreeting.Greetting.App.greet(App.java:45) greet:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 10:03:52.835 INFO   ConsoleGreeting.Greetting.App.greet(App.java:49) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 10:03:52.835 INFO   ConsoleGreeting.Greetting.App.greet(App.java:53) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 10:03:52.836 INFO   ConsoleGreeting.Greetting.App.greet(App.java:57) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 10:08:53.337 INFO   ConsoleGreeting.Greetting.App.greet(App.java:45) greet:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 10:08:53.340 INFO   ConsoleGreeting.Greetting.App.greet(App.java:49) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 10:08:53.340 INFO   ConsoleGreeting.Greetting.App.greet(App.java:53) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 10:08:53.341 INFO   ConsoleGreeting.Greetting.App.greet(App.java:57) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 10:09:36.204 INFO   ConsoleGreeting.Greetting.App.greet(App.java:45) greet:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 10:09:36.207 INFO   ConsoleGreeting.Greetting.App.greet(App.java:49) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 10:09:36.207 INFO   ConsoleGreeting.Greetting.App.greet(App.java:53) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 10:09:36.207 INFO   ConsoleGreeting.Greetting.App.greet(App.java:57) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 10:11:30.215 INFO   ConsoleGreeting.Greetting.App.greet(App.java:45) greet:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 10:11:30.217 INFO   ConsoleGreeting.Greetting.App.greet(App.java:49) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 10:11:30.218 INFO   ConsoleGreeting.Greetting.App.greet(App.java:53) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 10:11:30.218 INFO   ConsoleGreeting.Greetting.App.greet(App.java:57) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 10:11:30.220 WARN   ConsoleGreeting.Greetting.App.isTimeValid(App.java:68) isTimeValid:
+					Invalid argument for greet(). Return null
+23.02.2016 10:13:21.741 INFO   ConsoleGreeting.Greetting.App.greet(App.java:45) greet:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 10:13:21.741 INFO   ConsoleGreeting.Greetting.App.greet(App.java:49) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 10:13:21.741 INFO   ConsoleGreeting.Greetting.App.greet(App.java:53) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 10:13:21.741 INFO   ConsoleGreeting.Greetting.App.greet(App.java:57) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 10:13:21.756 WARN   ConsoleGreeting.Greetting.App.isTimeValid(App.java:69) isTimeValid:
+					Invalid argument for greet(). Return null
+23.02.2016 10:23:24.329 INFO   ConsoleGreeting.Greetting.App.main(App.java:17) main:
+					Current time is 10:23:24.236
+23.02.2016 10:23:24.329 WARN   ConsoleGreeting.Greetting.App.isTimeValid(App.java:69) isTimeValid:
+					Invalid argument for greet(). Return null
+23.02.2016 10:23:24.345 INFO   ConsoleGreeting.Greetting.App.greet(App.java:49) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 10:23:35.099 WARN   ConsoleGreeting.Greetting.App.isTimeValid(App.java:69) isTimeValid:
+					Invalid argument for greet(). Return null
+23.02.2016 10:23:35.099 INFO   ConsoleGreeting.Greetting.App.greet(App.java:45) greet:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 10:23:35.099 WARN   ConsoleGreeting.Greetting.App.isTimeValid(App.java:69) isTimeValid:
+					Invalid argument for greet(). Return null
+23.02.2016 10:23:35.099 INFO   ConsoleGreeting.Greetting.App.greet(App.java:49) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 10:23:35.099 WARN   ConsoleGreeting.Greetting.App.isTimeValid(App.java:69) isTimeValid:
+					Invalid argument for greet(). Return null
+23.02.2016 10:23:35.099 INFO   ConsoleGreeting.Greetting.App.greet(App.java:53) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 10:23:35.099 WARN   ConsoleGreeting.Greetting.App.isTimeValid(App.java:69) isTimeValid:
+					Invalid argument for greet(). Return null
+23.02.2016 10:23:35.099 INFO   ConsoleGreeting.Greetting.App.greet(App.java:57) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 10:27:12.718 INFO   ConsoleGreeting.Greetting.App.greet(App.java:45) greet:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 10:27:12.718 INFO   ConsoleGreeting.Greetting.App.greet(App.java:49) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 10:27:12.718 INFO   ConsoleGreeting.Greetting.App.greet(App.java:53) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 10:27:12.718 INFO   ConsoleGreeting.Greetting.App.greet(App.java:57) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 12:25:32.315 WARN   ConsoleGreeting.Greetting.App.isTimeValid(App.java:68) isTimeValid:
+					Invalid argument for greet(). Return null
+23.02.2016 12:25:32.441 INFO   ConsoleGreeting.Greetting.App.greet(App.java:45) greet:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 12:25:32.441 INFO   ConsoleGreeting.Greetting.App.greet(App.java:49) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 12:25:32.442 INFO   ConsoleGreeting.Greetting.App.greet(App.java:53) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 12:25:32.442 INFO   ConsoleGreeting.Greetting.App.greet(App.java:57) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 12:33:38.617 WARN   ConsoleGreeting.Greetting.App.isTimeValid(App.java:75) isTimeValid:
+					Invalid argument for greet(). Return null
+23.02.2016 12:33:38.700 INFO   ConsoleGreeting.Greetting.App.greet(App.java:38) greet:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 12:33:38.700 INFO   ConsoleGreeting.Greetting.App.greet(App.java:42) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 12:33:38.700 INFO   ConsoleGreeting.Greetting.App.greet(App.java:46) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 12:33:38.700 INFO   ConsoleGreeting.Greetting.App.greet(App.java:50) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 12:34:39.183 WARN   ConsoleGreeting.Greetting.App.isTimeValid(App.java:75) isTimeValid:
+					Invalid argument for greet(). Return null
+23.02.2016 12:34:39.187 INFO   ConsoleGreeting.Greetting.App.greet(App.java:38) greet:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 12:34:39.188 INFO   ConsoleGreeting.Greetting.App.greet(App.java:42) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 12:34:39.189 INFO   ConsoleGreeting.Greetting.App.greet(App.java:46) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 12:34:39.189 INFO   ConsoleGreeting.Greetting.App.greet(App.java:50) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 12:38:54.038 WARN   ConsoleGreeting.Greetting.App.isTimeValid(App.java:74) isTimeValid:
+					Invalid argument for greet(). Return null
+23.02.2016 12:38:54.045 INFO   ConsoleGreeting.Greetting.App.greet(App.java:37) greet:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 12:38:54.046 INFO   ConsoleGreeting.Greetting.App.greet(App.java:41) greet:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 12:38:54.046 INFO   ConsoleGreeting.Greetting.App.greet(App.java:45) greet:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 12:38:54.046 INFO   ConsoleGreeting.Greetting.App.greet(App.java:49) greet:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 12:43:03.674 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 12:43:03.555
+23.02.2016 12:43:03.679 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:50) checkTime:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 12:43:08.900 WARN   ConsoleGreeting.Greetting.App.isTimeValid(App.java:78) isTimeValid:
+					Invalid argument for greet(). Return null
+23.02.2016 12:43:08.903 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:46) checkTime:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 12:43:08.904 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:50) checkTime:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 12:43:08.904 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:54) checkTime:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 12:43:08.905 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:58) checkTime:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 12:51:54.751 WARN   ConsoleGreeting.Greetting.App.isTimeValid(App.java:76) isTimeValid:
+					Invalid argument for greet(). Return null
+23.02.2016 12:51:54.755 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:44) checkTime:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 12:51:54.756 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:48) checkTime:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 12:51:54.762 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:52) checkTime:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 12:51:54.762 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:56) checkTime:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 12:53:40.825 WARN   ConsoleGreeting.Greetting.App.isTimeValid(App.java:75) isTimeValid:
+					Invalid argument for greet(). Return null
+23.02.2016 12:53:40.825 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:39) checkTime:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 12:53:40.835 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:43) checkTime:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 12:53:40.835 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:47) checkTime:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 12:53:40.835 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:51) checkTime:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 12:54:17.118 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 12:54:16.993
+23.02.2016 12:54:17.128 ERROR  ConsoleGreeting.Greetting.App.getResource(App.java:68) getResource:
+					Exception occured Can't find bundle for base name messages, locale ru_RU
+23.02.2016 12:56:08.787 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 12:56:08.693
+23.02.2016 12:56:08.790 ERROR  ConsoleGreeting.Greetting.App.getResource(App.java:68) getResource:
+					Exception occured Can't find bundle for base name messages, locale ru_RU
+23.02.2016 12:56:08.790 ERROR  ConsoleGreeting.Greetting.App.checkTime(App.java:55) checkTime:
+					Exception occured null
+23.02.2016 13:07:24.655 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 13:07:24.533
+23.02.2016 13:07:24.663 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:43) checkTime:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 13:07:27.931 INFO   ConsoleGreeting.Greetting.App.main(App.java:18) main:
+					Current time is 13:07:27.841
+23.02.2016 13:07:27.931 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:43) checkTime:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 13:11:16.486 WARN   ConsoleGreeting.Greetting.App.isTimeValid(App.java:73) isTimeValid:
+					Invalid argument for greet(). Return null
+23.02.2016 13:11:16.494 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:39) checkTime:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 13:11:16.495 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:43) checkTime:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 13:11:16.495 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:47) checkTime:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 13:11:16.495 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:51) checkTime:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 13:11:33.026 WARN   ConsoleGreeting.Greetting.App.isTimeValid(App.java:73) isTimeValid:
+					Invalid argument for greet(). Return null
+23.02.2016 13:11:33.033 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:39) checkTime:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 13:11:33.033 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:43) checkTime:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 13:11:33.034 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:47) checkTime:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 13:11:33.034 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:51) checkTime:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 13:21:42.609 WARN   ConsoleGreeting.Greetting.App.isTimeValid(App.java:73) isTimeValid:
+					Invalid argument for greet(). Return null
+23.02.2016 13:21:42.609 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:39) checkTime:
+					Invocation of method displayed Доброе утро, Мир!
+23.02.2016 13:21:42.609 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:43) checkTime:
+					Invocation of method displayed Добрый день, Мир!
+23.02.2016 13:21:42.609 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:47) checkTime:
+					Invocation of method displayed Добрый вечер, Мир!
+23.02.2016 13:21:42.609 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:51) checkTime:
+					Invocation of method displayed Доброй ночи, Мир!
+23.02.2016 13:24:33.781 INFO   ConsoleGreeting.Greetting.App.main(App.java:22) main:
+					Current time is 13:24:33.681
+23.02.2016 13:24:33.794 INFO   ConsoleGreeting.Greetting.App.checkTime(App.java:43) checkTime:
+					Invocation of method displayed Добрый день, Мир!
