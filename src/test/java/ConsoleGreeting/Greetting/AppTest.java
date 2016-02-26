@@ -4,6 +4,7 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 
 import java.time.LocalTime;
+import java.util.MissingResourceException;
 import java.util.ResourceBundle;
 
 import org.junit.BeforeClass;
@@ -46,4 +47,15 @@ public class AppTest{
 	public void testGetResource(){
 		assertNotNull(App.getResource());
 	}
-}
+	
+	@Test
+	public void testGetMessage(){
+		assertEquals(resource.getString("morning"), "Доброе утро, Мир!");
+	}
+	
+	@Test(expected=MissingResourceException.class)
+	public void testFailedGetMesage(){
+		resource.getString("invalid");
+	}
+	
+    }

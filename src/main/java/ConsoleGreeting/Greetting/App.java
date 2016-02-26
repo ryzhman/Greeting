@@ -31,24 +31,23 @@ public class App{
     
     public static String checkTime(LocalTime time){
     	String timeOfDay = "";
-    	ResourceBundle resource = getResource();
     	
     	try{
     		if(time.isAfter(sixAm)&&time.isBefore(nineAm)||(time.equals(LocalTime.of(6,0)))||(time.equals(LocalTime.of(9,0)))){
-    			timeOfDay=resource.getString("morning");
-    			log.info("Invocation of method displayed " + timeOfDay);
+    			timeOfDay=getMessage("morning");
+    			logMethodActivity(timeOfDay);
     			return timeOfDay;
     		}else if(time.isAfter(nineAm)&&time.isBefore(sevenPm)||time.equals(LocalTime.of(19,0))){
-    			timeOfDay= resource.getString("day");
-    			log.info("Invocation of method displayed " + timeOfDay);
+    			timeOfDay= getMessage("day");
+    			logMethodActivity(timeOfDay);
     			return timeOfDay;
     		}else if(time.isAfter(sevenPm)&&time.isBefore(elevenPm)||time.equals(LocalTime.of(23,0))){
-    			timeOfDay = resource.getString("evening");
-    			log.info("Invocation of method displayed " + timeOfDay);
+    			timeOfDay = getMessage("evening");
+    			logMethodActivity(timeOfDay);
     			return timeOfDay;
     		}else{
-    			timeOfDay = resource.getString("night");
-    			log.info("Invocation of method displayed " + timeOfDay);
+    			timeOfDay = getMessage("night");
+    			logMethodActivity(timeOfDay);
     			return timeOfDay;
     		}
     	}catch(NullPointerException e){
@@ -75,5 +74,13 @@ public class App{
     		return notValid;
     	}
 		return null;
+    }
+    
+    public static String getMessage(String message){
+    	return getResource().getString(message);
+    }
+    
+    public static void logMethodActivity(String parameter){
+		log.info("Invocation of method displayed " + parameter);
     }
 }
