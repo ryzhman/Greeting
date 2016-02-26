@@ -590,3 +590,13 @@
 					Invocation of method displayed Добрый вечер, Мир!
 26.02.2016 09:22:21.221 INFO   ConsoleGreeting.Greetting.App.logMethodActivity(App.java:84) logMethodActivity: 
 					Invocation of method displayed Доброй ночи, Мир!
+26.02.2016 09:30:52.923 WARN   ConsoleGreeting.Greetting.App.isTimeValid(App.java:72) isTimeValid: 
+					Invalid argument for greet(). Return null
+26.02.2016 09:30:52.923 INFO   ConsoleGreeting.Greetting.App.logMethodActivity(App.java:84) logMethodActivity: 
+					Invocation of method displayed Доброе утро, Мир!
+26.02.2016 09:30:52.923 INFO   ConsoleGreeting.Greetting.App.logMethodActivity(App.java:84) logMethodActivity: 
+					Invocation of method displayed Добрый день, Мир!
+26.02.2016 09:30:52.923 INFO   ConsoleGreeting.Greetting.App.logMethodActivity(App.java:84) logMethodActivity: 
+					Invocation of method displayed Добрый вечер, Мир!
+26.02.2016 09:30:52.923 INFO   ConsoleGreeting.Greetting.App.logMethodActivity(App.java:84) logMethodActivity: 
+					Invocation of method displayed Доброй ночи, Мир!

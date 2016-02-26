@@ -50,7 +50,7 @@ public class AppTest{
 	
 	@Test
 	public void testGetMessage(){
-		assertEquals(resource.getString("morning"), "Доброе утро, Мир!");
+		assert resource.getString("morning").equals("Доброе утро, Мир!")||resource.getString("morning").equals("Good morning, World!");
 	}
 	
 	@Test(expected=MissingResourceException.class)
