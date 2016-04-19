@@ -9,7 +9,11 @@ import java.util.ResourceBundle;
 
 import org.junit.BeforeClass;
 import org.junit.Test;
-
+/**
+ * Tests 
+ *  
+ * @author Oleksandr Ryzhkov
+ */
 
 public class AppTest{
 	private static LocalTime morningTestTime;

@@ -7,6 +7,14 @@ import java.util.ResourceBundle;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+
+/**
+ * Small app, that greets user with a message depending on the time 
+ * of a day and default Locale
+ * 
+ * @author Oleksandr Ryzhkov
+ */
+
 public class App{
 	private static final Logger log = LogManager.getLogger();
 	private static final String RESOURCEFILE = "messages";
